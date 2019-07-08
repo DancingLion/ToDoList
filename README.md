@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# React Crash Course (TodoList)
-
-This is the code for the crash course on YouTube
-
-## Quick Start
-
+# ToDoList
 ```bash
 # Install dependencies
 npm install
@@ -15,6 +9,3 @@ npm start
 # Build for production
 npm run build
 ```
-=======
-# ToDoList
->>>>>>> origin/master
