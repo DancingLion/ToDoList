@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Crash Course (TodoList)
 
 This is the code for the crash course on YouTube
@@ -14,3 +15,6 @@ npm start
 # Build for production
 npm run build
 ```
+=======
+# ToDoList
+>>>>>>> origin/master
